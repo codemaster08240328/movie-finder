@@ -1,5 +1,8 @@
 # MovieFinder
 
+Please check the demo here.
+http://moviefinder-ltk.s3-website-us-east-1.amazonaws.com
+
 ## Prerequisite
 
 1. Node ^12: you can run `nvm use` to select the exact node version.
